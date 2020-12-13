@@ -1,0 +1,3031 @@
+{
+  "@@last_modified": "2020-10-09T18:29:18.756528", 
+  "title": "Enter valid mobile number", 
+  "@title": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "subTitle": "We will send you a one time password to verify your account", 
+  "@subTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hintMobileNumber": "Mobile number", 
+  "@hintMobileNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hintReferenceNumber": "Enter reference's contact number", 
+  "@hintReferenceNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hintReferenceContactNumber": "Yes, I've reference's contact number", 
+  "@hintReferenceContactNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "enterValidMobileNumber": "Enter Valid Mobile Number", 
+  "@enterValidMobileNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "enterValidReferenceContactNumber": "Enter Valid Reference Contact Number", 
+  "@enterValidReferenceContactNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "inValidNumberEnterd": "Invalid number entered, Try again", 
+  "@inValidNumberEnterd": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "checkInternet": "Please Check Your Internet.", 
+  "@checkInternet": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "enterOtp": "Enter OTP", 
+  "@enterOtp": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pleasePayBalance": "Please pay balance", 
+  "@pleasePayBalance": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripFinished": "Trip Finished", 
+  "@tripFinished": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "amount": " amount", 
+  "@amount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thanksyouforPayment": "Thank you for payment!", 
+  "@thanksyouforPayment": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weHaveSentOtp": "We have sent an OTP on", 
+  "@weHaveSentOtp": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "sharethisCode": "Please enter OTP send ", 
+  "@sharethisCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "registeredNumber": "to your registered number", 
+  "@registeredNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "shareThisCodeLoading": "Share this verification code", 
+  "@shareThisCodeLoading": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "todriver": "to driver", 
+  "@todriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "otpNotValidate": "OTP Not Validate, Please Try Again", 
+  "@otpNotValidate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "didntReceive": "Didn't receive?", 
+  "@didntReceive": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ReceiveOTP": "Receive OTP", 
+  "@ReceiveOTP": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "viewBreakup": "View Breakup", 
+  "@viewBreakup": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripReceipt": "View trip receipt", 
+  "@tripReceipt": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "rateExperience": "Rate your Experience", 
+  "@rateExperience": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hideBreakup": "Hide Breakup", 
+  "@hideBreakup": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "resendCode": "Resend Code", 
+  "@resendCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "viaCall": "via call", 
+  "@viaCall": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "otpSuccessFully": "OTP validated successfully..", 
+  "@otpSuccessFully": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "btnLogin": "LOGIN", 
+  "@btnLogin": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "signUpAs": "Sign Up as", 
+  "@signUpAs": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "signupAsmaterialSender": "Material Sender", 
+  "@signupAsmaterialSender": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "signupAsTruckOwner": "Truck Owner", 
+  "@signupAsTruckOwner": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "signupAsTransporter": "Transporter", 
+  "@signupAsTransporter": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "companyDetailsTitle": "Company Details", 
+  "@companyDetailsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "transporterDetailsTitle": "Transporter Details", 
+  "@transporterDetailsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "companyName": "Company Name", 
+  "@companyName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "nameOfTrasportCompany": "Name Of Transport Company", 
+  "@nameOfTrasportCompany": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "contactPerson": "Contact Person", 
+  "@contactPerson": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "contactNumber": "Contact Number", 
+  "@contactNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "email": "Email", 
+  "@email": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "companyAddress": "Company Address", 
+  "@companyAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "area": "Area", 
+  "@area": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "city": "City", 
+  "@city": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "state": "State", 
+  "@state": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "next": "NEXT", 
+  "@next": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "continueButton": "CONTINUE", 
+  "@continueButton": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectImageSource": "Select the image source", 
+  "@selectImageSource": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "camera": "Camera", 
+  "@camera": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "gallery": "Gallery", 
+  "@gallery": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addressProof": "Address Proof", 
+  "@addressProof": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "companyPanNumber": "Pan Number", 
+  "@companyPanNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadPanCardPhoto": "Upload Pan Card Photo", 
+  "@uploadPanCardPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadPhoto": "Upload Photo", 
+  "@uploadPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "financialDetailsTitle": "Financial Details", 
+  "@financialDetailsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "gstNumber": "GST Number", 
+  "@gstNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ownerName": "Owner Name", 
+  "@ownerName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "bankName": "Bank Name", 
+  "@bankName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accountType": "Account Type", 
+  "@accountType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accountNumber": "Account Number", 
+  "@accountNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reEnterAccountNumber": "Re-Enter Account Number", 
+  "@reEnterAccountNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ifscCode": "IFSC Code", 
+  "@ifscCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadBlankChequePhoto": "Upload Blank Cheque photo", 
+  "@uploadBlankChequePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "termsAndCondition": "Terms & Conditions", 
+  "@termsAndCondition": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pucPhoto": "PUC Photo", 
+  "@pucPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "btnAdd": "ADD", 
+  "@btnAdd": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadDocumentsTitle": "Upload Documents", 
+  "@uploadDocumentsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "rcBook": "RC Book", 
+  "@rcBook": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "fitnessCertificate": "Fitness Certificate", 
+  "@fitnessCertificate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadStatePermitPhoto": "Upload State Permit Photo", 
+  "@uploadStatePermitPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insurancePhoto": "Insurance Photo", 
+  "@insurancePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noLoadsAvailable": "No Loads available", 
+  "@noLoadsAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "checkAgainAfterSometime": "Please check again after sometime", 
+  "@checkAgainAfterSometime": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "modifyYourSearch": "MODIFY YOUR SEARCH", 
+  "@modifyYourSearch": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingChecklist": "Loading Checklist Pickup", 
+  "@loadingChecklist": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingComplete": "Loading Complete", 
+  "@loadingComplete": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "completed": "Completed", 
+  "@completed": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoadingComplete": "Unloading Completed", 
+  "@unLoadingComplete": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoading1Summary": "UnLoading Summary", 
+  "@unLoading1Summary": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "submitteAall": "Submitted all transists documents", 
+  "@submitteAall": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "quantityReceived": "Quantity received correct", 
+  "@quantityReceived": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "other": "Other", 
+  "@other": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "WeightCorrect": "Weight received correct", 
+  "@WeightCorrect": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hamali": "Hamali paid as prefixed", 
+  "@hamali": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverUnloadComplete": "Driver has completed Unloading of the material.", 
+  "@driverUnloadComplete": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverComplete": "Driver has completed loading of the material", 
+  "@driverComplete": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "invoice": "Invoice", 
+  "@invoice": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "lrCopy": "LR Copy", 
+  "@lrCopy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "safety": "Safety Instruction", 
+  "@safety": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weightbridge": "Weightbridge slip", 
+  "@weightbridge": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "verifyThings": "Please verify things below to", 
+  "@verifyThings": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "startTrip": "start the trip.", 
+  "@startTrip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "endTrip": "end the trip.", 
+  "@endTrip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadedItem": "Loaded Item ", 
+  "@loadedItem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "damagedGoods": "Damaged good", 
+  "@damagedGoods": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "notTheCorrect": "Not the Correct Material", 
+  "@notTheCorrect": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "describeUnloading": "Describe Unloading Problem", 
+  "@describeUnloading": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weightDifference": "Weight Difference (Over allowed)", 
+  "@weightDifference": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "verifyLoading": "Verify Loading", 
+  "@verifyLoading": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "verifyunLoading": "Verify Unloading", 
+  "@verifyunLoading": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reportedProblem": "Reported Problem ", 
+  "@reportedProblem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "oneArrow": "1)", 
+  "@oneArrow": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "twoArrow": "2)", 
+  "@twoArrow": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "numberArticle": "NUMBER OF ARTICLE", 
+  "@numberArticle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unloadedItem": "Unloaded Item ", 
+  "@unloadedItem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "missindDocument": "Missing Document", 
+  "@missindDocument": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialLoad": "Material loaded correctly", 
+  "@materialLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialUnLoad": "Material Unloaded (Correct material)", 
+  "@materialUnLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noDamage": "No damage or leakage", 
+  "@noDamage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCash": "Advance cash", 
+  "@advanceCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "receivedAdvanceCash": "Driver Cash", 
+  "@receivedAdvanceCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tarpalCovered": "Waterproof tarpal for truck cover", 
+  "@tarpalCovered": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingChargePrefix": " Loading charge paid as prefixed", 
+  "@loadingChargePrefix": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingCharge": "Loading charges", 
+  "@loadingCharge": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "receivedDoc": "Received all documents for road", 
+  "@receivedDoc": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noCovered": "No damage or leakage of goods", 
+  "@noCovered": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "plasticBag": "Plastic Bag", 
+  "@plasticBag": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "done": "DONE", 
+  "@done": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thankYouForSignup": "Thank you for \nSigning Up", 
+  "@thankYouForSignup": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thankYouVerification": "Your verification process will be \ncompleted within 48 hours.", 
+  "@thankYouVerification": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thankYouVerificationAccepting": "Once verified, you can start viewing\nand accepting transport requests.", 
+  "@thankYouVerificationAccepting": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accountDetail": "Account No", 
+  "@accountDetail": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accountNo": "12445ABCD12", 
+  "@accountNo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accountName": "Account Holder Name", 
+  "@accountName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "transportName": "ECO TRANSPORT SOLUTION PRIVATE LIMITED", 
+  "@transportName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "solutionName": "SOLUTION PRIVATE LIMITED", 
+  "@solutionName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ifscDetail": "IFSC Code", 
+  "@ifscDetail": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ifscNumber": "UTIB123ABCD", 
+  "@ifscNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weText": "We will notify you once we receive the payment to our account.", 
+  "@weText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "belowText": "Below is the account detail", 
+  "@belowText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "acceptQuote": "Accepted  quote is", 
+  "@acceptQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "kindlyText": "Kindly deposit ", 
+  "@kindlyText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "amountText": " to this account", 
+  "@amountText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceAmount": "Amount", 
+  "@advanceAmount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payLater": "PAY LATER", 
+  "@payLater": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payNow": "PAY NOW", 
+  "@payNow": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payAmountHint": "You can always pay later to become\na verified user", 
+  "@payAmountHint": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "acceptRquest": "Kindly Accept or Reject to confirm the Trip", 
+  "@acceptRquest": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "refundedDeposit": "\n(Refundable Deposit) \nto enjoy hassle-free service", 
+  "@refundedDeposit": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "enrollmentFee": " enrollment fee \nfor one year and \nbecome a verified user", 
+  "@enrollmentFee": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "acceptedQuote": "Material Sender has accepted your quote", 
+  "@acceptedQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pay": "Pay  ", 
+  "@pay": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addDriverTitle": "Add Driver", 
+  "@addDriverTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverName": "Driver Name", 
+  "@driverName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "phoneNumber": "Phone Number", 
+  "@phoneNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "licenseExpiryDate": "License Expiry Date", 
+  "@licenseExpiryDate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "date": "Date", 
+  "@date": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "licensePhoto": "License Photo", 
+  "@licensePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addDriverPhoto": "Add Driver Photo", 
+  "@addDriverPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckPhotoHint": "Add upto 4 pictures if you want", 
+  "@truckPhotoHint": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addTruckDetailsTitle": "Add Truck Details", 
+  "@addTruckDetailsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckNumber": "Truck Number", 
+  "@truckNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckBodyType": "Truck Body Type", 
+  "@truckBodyType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "numberOfWheels": "Number Of Wheels", 
+  "@numberOfWheels": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weightCapacity": "Weight Capacity", 
+  "@weightCapacity": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckLength": "Truck Length", 
+  "@truckLength": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "feet": "FEET", 
+  "@feet": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "mt": "MT", 
+  "@mt": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "contactName": "Contact Name", 
+  "@contactName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckPhotoOptional": "Truck Photos (Optional)", 
+  "@truckPhotoOptional": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "findLoad": "Find Load", 
+  "@findLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "findTruck": "Find Truck", 
+  "@findTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "myTrips": "My Trips", 
+  "@myTrips": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageDrivers": "Manage Drivers", 
+  "@manageDrivers": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageTrucks": "Manage Trucks", 
+  "@manageTrucks": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageMaterials": "Manage Materials", 
+  "@manageMaterials": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "managAddresses": "Manage Addresses", 
+  "@managAddresses": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "bankDetails": "Bank Details", 
+  "@bankDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "negotiations": "Negotiations", 
+  "@negotiations": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "profile": "Profile", 
+  "@profile": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "documents": "Documents", 
+  "@documents": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectLanguage": "Select Language", 
+  "@selectLanguage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "sortByDriverCash": "Sort By Driver Cash", 
+  "@sortByDriverCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "fillterBy": "Filter By", 
+  "@fillterBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payByConsignor": "Pay By Consignor", 
+  "@payByConsignor": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payByConsignee": "Pay By Consignee", 
+  "@payByConsignee": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "filterByMaterial": "Filter By Material", 
+  "@filterByMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "availableMaterial": "Available Material", 
+  "@availableMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "favourite": "Favourite", 
+  "@favourite": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "overSize": "(Oversize)", 
+  "@overSize": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverCashAvailable": "Driver cash available ", 
+  "@driverCashAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "delivery": "Delivery  ", 
+  "@delivery": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUp": "Pick Up  ", 
+  "@pickUp": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freight": "Freight  ", 
+  "@freight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ok": "Ok", 
+  "@ok": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truck": "TRUCK", 
+  "@truck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectTruck": "Select Truck", 
+  "@selectTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driver": "DRIVER", 
+  "@driver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectDriver": "Select Driver", 
+  "@selectDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "fullLoad": "Full Load", 
+  "@fullLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "partLoad": "Part Load", 
+  "@partLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "recentSearch": "Recent Searches", 
+  "@recentSearch": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "from": "FROM", 
+  "@from": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "to": "TO", 
+  "@to": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requiredWeight": "REQUIRED WEIGHT", 
+  "@requiredWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingDate": "LOADING DATE", 
+  "@loadingDate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tomorrow": "Tomorrow", 
+  "@tomorrow": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightDemand": "FREIGHT DEMAND", 
+  "@freightDemand": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ton": "/ TON", 
+  "@ton": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requiredDriverCash": "REQUIRED DRIVER CASH", 
+  "@requiredDriverCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ex": "EX. 200 NOS", 
+  "@ex": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "twoNOS": "200 NOS", 
+  "@twoNOS": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "fiftyNOS": "15 MT", 
+  "@fiftyNOS": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "cementPlastic": "CEMENT PLASTIC BAGS", 
+  "@cementPlastic": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "exFright": "EX. 15 MT", 
+  "@exFright": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "describeItem": "Notes", 
+  "@describeItem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "numberOFQuantity": "Loaded Units/ Articles", 
+  "@numberOFQuantity": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "exCement": "Ex. Cement Plastic bags", 
+  "@exCement": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "finalLoaded": "FINAL LOADED WEIGHT", 
+  "@finalLoaded": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "search": "SEARCH", 
+  "@search": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "findLoadTitle": "Find Load", 
+  "@findLoadTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "today": "Today", 
+  "@today": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageDriverTitle": "Manage Drivers", 
+  "@manageDriverTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "problemChecklist": "Problem Checklist", 
+  "@problemChecklist": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addNewDriver": "+ Add new driver", 
+  "@addNewDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageTruck": "Manage Trucks", 
+  "@manageTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addNewTruck": "+ Add new truck", 
+  "@addNewTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckNo": "Truck No : ", 
+  "@truckNo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "TruckType": "Type : ", 
+  "@TruckType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "TruckCapacity": "Capacity : ", 
+  "@TruckCapacity": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectLocationTitle": "Select Location", 
+  "@selectLocationTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadedOn": "Loaded on ", 
+  "@loadedOn": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unloadedOn": "Unloaded on ", 
+  "@unloadedOn": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "currentLocation": "Current Location", 
+  "@currentLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "failedToGetLocation": "Failed to get device location, please select from list given", 
+  "@failedToGetLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUpDetails": "Pick up Details", 
+  "@pickUpDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "upComing": "Upcoming", 
+  "@upComing": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "onGoing": "Ongoing", 
+  "@onGoing": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noRecordsFound": "No records found...", 
+  "@noRecordsFound": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pleaseTryAgain": "Please Try Again", 
+  "@pleaseTryAgain": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUpBy": "Pickup by: ", 
+  "@pickUpBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "packingType": "Packaging Type: ", 
+  "@packingType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weight": "Weight ", 
+  "@weight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingChanges": "Loading Charges ", 
+  "@loadingChanges": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryDetails": "Delivery Details", 
+  "@deliveryDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unloadingCharges": "Unloading Charges ", 
+  "@unloadingCharges": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightDetails": "Freight Details", 
+  "@freightDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightpaidBy": "Freight paid by", 
+  "@freightpaidBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverDetails": "Driver Details", 
+  "@driverDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalPaybleFright": "Total Payable Amount", 
+  "@totalPaybleFright": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pastdueAmount": "Past Due Amount", 
+  "@pastdueAmount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckhalt": "Truck Halting Charges", 
+  "@truckhalt": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "consignee": "Consignee", 
+  "@consignee": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCashPaid": "Advance Cash Paid", 
+  "@advanceCashPaid": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCashAvailable": "Advance Cash Paid", 
+  "@advanceCashAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "cashAvailable": "Advance Cash Available", 
+  "@cashAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingUnloading": "Loading & Unloading Charge", 
+  "@loadingUnloading": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payableByDriver": "(Payable by Driver)", 
+  "@payableByDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightPaidBy": "Freight Paid By", 
+  "@freightPaidBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightAmount": "Freight Amount", 
+  "@freightAmount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "payByDriver": "Pay by Driver", 
+  "@payByDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingUnloadingCharge": "(Loading & Unloading Charge)", 
+  "@loadingUnloadingCharge": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "askMoreFreight": "ASK MORE FREIGHT", 
+  "@askMoreFreight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "acceptAndNext": "ACCEPT & NEXT", 
+  "@acceptAndNext": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUpTruck": "PICKUP ", 
+  "@pickUpTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUpTruckFrom": " FROM ", 
+  "@pickUpTruckFrom": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryTruck": "DELIVERY ", 
+  "@deliveryTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryTruckTo": " TO ", 
+  "@deliveryTruckTo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCashLabel": "Advance cash demand by driver ", 
+  "@advanceCashLabel": {
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightDemandTitle": "Freight Demand", 
+  "@freightDemandTitle": {
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "eWay": "E-Way bill copy", 
+  "@eWay": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "nickName": "Company/Warehouse Title", 
+  "@nickName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addNewAddress": "Add new address", 
+  "@addNewAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "address": "ADDRESS", 
+  "@address": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "alterNativeNumber": "AlterNative Number", 
+  "@alterNativeNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "alterNativeContactNumber": "Alternate Contact Number", 
+  "@alterNativeContactNumber": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "saveAddress": "Save Address", 
+  "@saveAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "getLocation": "Get Location", 
+  "@getLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "trunLocationOn": "Please turn location on", 
+  "@trunLocationOn": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "toBePaidBy": "TO BE PAID BY", 
+  "@toBePaidBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "consignor": "Consignor", 
+  "@consignor": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalCommittedFreight": "Freight amount", 
+  "@totalCommittedFreight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "anyAdvanceCash": "Any Advance Cash", 
+  "@anyAdvanceCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "anyAdvanceAvailable": "Available", 
+  "@anyAdvanceAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "anyAdvanceNotAvailable": "Not Available", 
+  "@anyAdvanceNotAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCash1": "Advance Cash", 
+  "@advanceCash1": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "toPayByTruckDriver": "To Pay By Truck Driver", 
+  "@toPayByTruckDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickup": "PickUp ", 
+  "@pickup": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingCharge1": " Loading Charges ", 
+  "@loadingCharge1": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoadingCharge": " UnLoading Charges ", 
+  "@unLoadingCharge": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "amd": "AMD ", 
+  "@amd": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "mds": "MDS ", 
+  "@mds": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "warehouse": " Warehouse ", 
+  "@warehouse": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightDetailsSummary": "Summary", 
+  "@freightDetailsSummary": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalFreight": "Total Freight", 
+  "@totalFreight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightPayBy": "Freight Pay By", 
+  "@freightPayBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialWeight": "Material Weight", 
+  "@materialWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unloadingOtpSentTo": "Unloading Otp Sent To", 
+  "@unloadingOtpSentTo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCashPickupAt": "Advance Cash Pickup At", 
+  "@advanceCashPickupAt": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "guaranteeFees": "Freight Guarantee Fees", 
+  "@guaranteeFees": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "passBookPhoto": "Passbook photo", 
+  "@passBookPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "locationAlreadySelected": "This location is already selected, please select another location", 
+  "@locationAlreadySelected": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pressAgain": "Press again to exit", 
+  "@pressAgain": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "toCancel": "to cancel the trip.", 
+  "@toCancel": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reason": "Reason", 
+  "@reason": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectReason": "Select Reason", 
+  "@selectReason": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "missChance": "You missed chance !", 
+  "@missChance": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripAccepted": "Trip Accepted", 
+  "@tripAccepted": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "details": "Details", 
+  "@details": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "close": "Close", 
+  "@close": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reasonForBreakDown": "Select reason for break down", 
+  "@reasonForBreakDown": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "estimateToStart": "Select time to start trip", 
+  "@estimateToStart": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "normal": "Normal", 
+  "@normal": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "overSizeODC": "Over Dimension (ODC)", 
+  "@overSizeODC": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "marketRate": "Market Rate", 
+  "@marketRate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "myLoads": "My Loads", 
+  "@myLoads": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckAds": "Truck Ads", 
+  "@truckAds": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "uploadPassBookPhoto": "Upload passbook photo", 
+  "@uploadPassBookPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "signUp": "Sign Up", 
+  "@signUp": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalTruckOwn": "Total Truck Own", 
+  "@totalTruckOwn": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "ownerDetailsTitle": "Owner Details", 
+  "@ownerDetailsTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "name": "NAME", 
+  "@name": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "notify": "Notify", 
+  "@notify": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requestConfirmation": "Request Confirmation", 
+  "@requestConfirmation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hsnCode": "HSN Code", 
+  "@hsnCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "invoiceDocNo": "Invoice Document No.", 
+  "@invoiceDocNo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "goodsNetValue": "Goods Net Value", 
+  "@goodsNetValue": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "invoiceTotalValue": "Invoice Total Value", 
+  "@invoiceTotalValue": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insuranceFee": "Material Insurance Fee", 
+  "@insuranceFee": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insuranceBeneCompany": "Insurance Beneficiary Company", 
+  "@insuranceBeneCompany": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insuranceDetails": "Insurance Details", 
+  "@insuranceDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insuranceMsg": "For a small fee, we assure you safe transport", 
+  "@insuranceMsg": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "toMaterial": "of your material.", 
+  "@toMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightMsg1": "For a small fee, we assure your freight", 
+  "@freightMsg1": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightMsg2": "payment on time, when you successfully", 
+  "@freightMsg2": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightMsg3": "complete the trip.", 
+  "@freightMsg3": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "insuranceCheckboxText": "Yes, I want to purchase material insurance", 
+  "@insuranceCheckboxText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "freightCheckboxText": "Yes, I want to purchase freight guarantee", 
+  "@freightCheckboxText": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "purchaseMaterialInsurance": "Purchase Material \n Insurance", 
+  "@purchaseMaterialInsurance": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "purchaseFreightGuarantee": "Purchase Freight \n Guarantee", 
+  "@purchaseFreightGuarantee": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "perTon": " / TON ", 
+  "@perTon": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "newTon": " TON ", 
+  "@newTon": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "km": " Km", 
+  "@km": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "clickOnContinue": "Click on Skip/Continue Button", 
+  "@clickOnContinue": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "blankChequePhoto": "Blank Cheque Photo", 
+  "@blankChequePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "panCard": "Pan Card", 
+  "@panCard": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "manageDocument": "Manage Documents", 
+  "@manageDocument": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverIsOnTheWay": "Driver is on the way", 
+  "@driverIsOnTheWay": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "willBeDeposited": "Will be deposited to your account", 
+  "@willBeDeposited": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "withInHours": "Within 24 hours.", 
+  "@withInHours": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "receivedBy": "Received by", 
+  "@receivedBy": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "breakDown": "Break Down", 
+  "@breakDown": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "emailAddress": "Email Address", 
+  "@emailAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoadingAddress": "Unloading Address:", 
+  "@unLoadingAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingAddress": "Loading Address", 
+  "@loadingAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "changeDriver": "Change Driver", 
+  "@changeDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "start": "to start the trip.", 
+  "@start": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "end": "to end the trip.", 
+  "@end": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loaderDetails": "Loader Details", 
+  "@loaderDetails": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingCode": "Loading Code", 
+  "@loadingCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoadingCode": "Unloading Code", 
+  "@unLoadingCode": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingButton": "Loading", 
+  "@loadingButton": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "unLoadingButton": "UnLoading", 
+  "@unLoadingButton": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "quantity": "Quantity", 
+  "@quantity": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "damageGoodPhoto": "Damage Goods Photo", 
+  "@damageGoodPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadedMaterialPhotoSummary": "Loaded Material Photo", 
+  "@loadedMaterialPhotoSummary": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckNumberPlate": "Truck Number Plate", 
+  "@truckNumberPlate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingSummary": "Loading Summary", 
+  "@loadingSummary": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "missingDocError": "You have to check atleast one missing document", 
+  "@missingDocError": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadedMaterialPhoto": "TAKE PHOTO OF LOADED MATERIAL", 
+  "@loadedMaterialPhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requestAccepted": "Request Accepted", 
+  "@requestAccepted": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "itemName": "Item Name", 
+  "@itemName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "max": "Max ", 
+  "@max": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickUpFrom": "PICKUP 1 FROM ", 
+  "@pickUpFrom": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "location": "Location ", 
+  "@location": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "overSizeWithoutParenthesis": "Oversize", 
+  "@overSizeWithoutParenthesis": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "oversized": "Oversized", 
+  "@oversized": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addAnotherPickup": "+ Add Another Pickup", 
+  "@addAnotherPickup": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryTo": "Delivery 1 To ", 
+  "@deliveryTo": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addAnotherDelivery": "+ Add Another Delivery", 
+  "@addAnotherDelivery": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadingAddressTitle": "Enter loading address", 
+  "@loadingAddressTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addNewLocation": "+ Add new location", 
+  "@addNewLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialDetail": "Material Detail", 
+  "@materialDetail": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialDetailTitle": "Manage Materials ", 
+  "@materialDetailTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripID": "Trip ID", 
+  "@tripID": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripIDDetail": "Trip ID ", 
+  "@tripIDDetail": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverFirstName": "Jivabhai Ulava", 
+  "@driverFirstName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addNewMaterial": "+ Add Another material", 
+  "@addNewMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "trip": "+ Add new material", 
+  "@trip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "item": "Item", 
+  "@item": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectItem": "Select Item", 
+  "@selectItem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "packaging": "Packaging type", 
+  "@packaging": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "describeProblem": "DESCRIBE PROBLEM", 
+  "@describeProblem": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "UnloadedWeight": "UNLOADED WEIGHT", 
+  "@UnloadedWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "confirm": "CONFIRM", 
+  "@confirm": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "acceptAndConfirm": "ACCEPT & CONFIRM", 
+  "@acceptAndConfirm": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "confirmAndNext": "CONFIRM & NEXT", 
+  "@confirmAndNext": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "emergencyContact": "Emergency contact", 
+  "@emergencyContact": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialPhotoOptional": "MATERIAL PHOTOS (Optional)", 
+  "@materialPhotoOptional": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "accept": "ACCEPT", 
+  "@accept": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "numberPlatePhoto": "TRUCK NUMBER PLATE PHOTO", 
+  "@numberPlatePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "takePhoto": "TAKE MATERIAL PHOTOS", 
+  "@takePhoto": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "waitingResponse": "Waiting for the response on the quote", 
+  "@waitingResponse": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "waitingForConfirmation": "Waiting for Confirmation", 
+  "@waitingForConfirmation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "takePhotoWeight": " TAKE PHOTO OF WEIGHT SLIP(WAY BRIDGE SLIP)", 
+  "@takePhotoWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "loadedMaterial": "TAKE PHOTO OF LOADED MATERIAL", 
+  "@loadedMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "add": "ADD", 
+  "@add": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thankYouForConfirmingFrieght": "Thank you for confirming \nfreight ", 
+  "@thankYouForConfirmingFrieght": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "confirmingFreightWaitForMaterialSender": "You have to wait for 1 hour. Trip will\n     get started once truck driver accept\nthe request.", 
+  "@confirmingFreightWaitForMaterialSender": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "confirmingFrieghtWaitForTruckDriver": "You have to wait for 1 hour. Trip will\n     get started once material owner accept\nthe request.", 
+  "@confirmingFrieghtWaitForTruckDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reject": "reject", 
+  "@reject": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "getTruckDetailTitle": "Truck Detail", 
+  "@getTruckDetailTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "demandFreight": "Demand freight", 
+  "@demandFreight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advanceCashDemand": "Advance Cash Demand", 
+  "@advanceCashDemand": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckCapacity": "Truck Capacity", 
+  "@truckCapacity": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "demandWeight": "Demand Weight", 
+  "@demandWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckAvilableDate": "Truck Available Date", 
+  "@truckAvilableDate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "askLessFreight": "ASK LESS FREIGHT", 
+  "@askLessFreight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noTruckAvailable": "No trucks available", 
+  "@noTruckAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "startTripMessage": "Since you are a Non-Verified user you\nhave to pay ", 
+  "@startTripMessage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "toSTartTripMessage": " to start the trip", 
+  "@toSTartTripMessage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckerAcceptedYourRequest": "Trucker accepted \n your request", 
+  "@truckerAcceptedYourRequest": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "byClickingOnPayNow": "By click on Pay Now, you agreeing to \n the ", 
+  "@byClickingOnPayNow": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "byClickingContinue": "By clicking on Continue, you agreeing to the ", 
+  "@byClickingContinue": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "the": "the", 
+  "@the": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickupLocation": "Pick up", 
+  "@pickupLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "pickupLocationEnglishOnly": "Pick up", 
+  "@pickupLocationEnglishOnly": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryLocation": "Delivery", 
+  "@deliveryLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryLocationEnglishOnly": "Delivery", 
+  "@deliveryLocationEnglishOnly": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "skip": "Skip", 
+  "@skip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addressType": "Address Type", 
+  "@addressType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deleteAddress": "Are you sure you want to delete address ?", 
+  "@deleteAddress": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "bodyType": "Body Type", 
+  "@bodyType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "transporterCompanyName": "Name Of Transport Company", 
+  "@transporterCompanyName": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectPackagingType": "Select Packaging type", 
+  "@selectPackagingType": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectLoadingArea": "Select loading area", 
+  "@selectLoadingArea": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "selectUnloadingArea": "Select unloading area", 
+  "@selectUnloadingArea": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "select": "Select ", 
+  "@select": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "minutes": "Minutes", 
+  "@minutes": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "seconds": "Seconds", 
+  "@seconds": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "alreadyRequested": "Already Requested", 
+  "@alreadyRequested": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckAvailable": " Trucks available", 
+  "@truckAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "apply": "Apply", 
+  "@apply": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noAdd": "Day for this ad has been passed", 
+  "@noAdd": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requestExpired": "Sorry, The Request has been expired", 
+  "@requestExpired": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "adExpired": "This ad has expired", 
+  "@adExpired": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "clearAllFilters": "Clear Filters", 
+  "@clearAllFilters": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "failedToGetCurrentLocation": "Failed to get current device location", 
+  "@failedToGetCurrentLocation": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noLoadsWithThisFilter": "With this filter, No loads are available. Please update your filter and check again", 
+  "@noLoadsWithThisFilter": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noTrucksWithThisFilter": "With this filter, No trucks are available. Please update your filter and check again", 
+  "@noTrucksWithThisFilter": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deleteMaterial": "Are you sure you want to delete material ?", 
+  "@deleteMaterial": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deleteDriver": "Are you sure you want to delete driver ?", 
+  "@deleteDriver": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalPaybleFrightAmount": "\u20b926,000", 
+  "@totalPaybleFrightAmount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "totalPaybleFrightAmount2": "\u20b935,000", 
+  "@totalPaybleFrightAmount2": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "cancelTrip": "Cancel trip", 
+  "@cancelTrip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryRejected": "Ex. Delivery Party rejected the material to ", 
+  "@deliveryRejected": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deliveryRejected2": "unload at their place", 
+  "@deliveryRejected2": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialReceivedCorrect": "Ex. Material received was not correct", 
+  "@materialReceivedCorrect": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tenMT": "Ex. 10 MT", 
+  "@tenMT": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialReceivedWas": "Ex. Material received was not damaged", 
+  "@materialReceivedWas": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "materialSenderTitle": "Material Sender", 
+  "@materialSenderTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "truckOwnerTitle": "Truck Owner", 
+  "@truckOwnerTitle": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "negotiationIsClosed": "This negotiation is closed", 
+  "@negotiationIsClosed": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "negotiationAccesptedQuote": "Accepted quote is", 
+  "@negotiationAccesptedQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "iWouldLikeToQuote": "I would like to quote freight amount per Ton", 
+  "@iWouldLikeToQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "retry": "Retry", 
+  "@retry": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "successFullyAcceptedTrip": "Successfully Accepted The Trip", 
+  "@successFullyAcceptedTrip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "receivedQuote": "Received quote", 
+  "@receivedQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requestedQuote": "Requested quote", 
+  "@requestedQuote": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noNegotiationsToDisplay": "No negotiations to display", 
+  "@noNegotiationsToDisplay": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "availableWeight": "Available Weight", 
+  "@availableWeight": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "yesterday": "yesterday", 
+  "@yesterday": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "errorWhileGettingData": "Error while getting data.Please try again.", 
+  "@errorWhileGettingData": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "material": "Material", 
+  "@material": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "description": "Description", 
+  "@description": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "somethingWentWrong": "Something Went Wrong. Please Try Again", 
+  "@somethingWentWrong": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "noInternet": "No internet connection, Please try again later", 
+  "@noInternet": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "requestTimeOut": "Request Timeout. Please Try Again", 
+  "@requestTimeOut": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "successfullyUpdated": "Successfully updated the data", 
+  "@successfullyUpdated": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "otpReSentSuccessfully": "OTP Resent Successfully", 
+  "@otpReSentSuccessfully": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "otpValidatedSuccessfully": "OTP validated successfully.", 
+  "@otpValidatedSuccessfully": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "yourRequestedAccepted": "Your request has been accepted.", 
+  "@yourRequestedAccepted": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "yourRequestedRejected": "Your Request Has Been Rejected.", 
+  "@yourRequestedRejected": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "advancedCashMessage": "Maximum Advance Cash Limit is 10000", 
+  "@advancedCashMessage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "yes": "Yes", 
+  "@yes": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "no": "No", 
+  "@no": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "errorWhileSavingTheImage": "Error while saving the image", 
+  "@errorWhileSavingTheImage": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "mobileNumberAndAgentRefNumberCannotBeSame": "Mobile Number And Agent Reference Number Cannot Be Same", 
+  "@mobileNumberAndAgentRefNumberCannotBeSame": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "errorWhileFetchingData": "Error while fetching data", 
+  "@errorWhileFetchingData": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "available": "Total material weight", 
+  "@available": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "thisAdIsNoLongerAvailable": "This ad is no longer available", 
+  "@thisAdIsNoLongerAvailable": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "sendOTP": "SEND OTP", 
+  "@sendOTP": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "reasonForCancellingTrip": "Let us know the reason for cancelling the trip", 
+  "@reasonForCancellingTrip": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "cancelTripCharge": "There will be charge of 1000 for cancelling the trip", 
+  "@cancelTripCharge": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tripCancelled": "Trip cancelled", 
+  "@tripCancelled": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "cancellationAmount": "Cancellation amount will be debited from your account", 
+  "@cancellationAmount": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "addLoad": "+ Add Load", 
+  "@addLoad": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "active": "Active", 
+  "@active": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "inactive": "Inactive", 
+  "@inactive": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "edit": "Edit", 
+  "@edit": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "remove": "Remove", 
+  "@remove": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "id": "ID", 
+  "@id": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "weightDemand": "Weight Demand", 
+  "@weightDemand": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "myOffer": "My Offer", 
+  "@myOffer": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "availableDriverCash": "Available Driver Cash", 
+  "@availableDriverCash": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "status": "Status", 
+  "@status": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "myLoadAds": "My Load Ads", 
+  "@myLoadAds": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "myTruckAds": "My Truck Ads", 
+  "@myTruckAds": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "driverCashDemand": "Driver Cash Demand", 
+  "@driverCashDemand": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "success": "Success", 
+  "@success": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "logout": "Log out", 
+  "@logout": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tapToSearch": "Tap to search", 
+  "@tapToSearch": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "deleteTruck": "Are you sure you want to delete driver ?", 
+  "@deleteTruck": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "asPerMarketRate": "As per market rate", 
+  "@asPerMarketRate": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "tapaswi": "Tapaswi", 
+  "@tapaswi": {
+    "description": "Simpel word for greeting ", 
+    "type": "text", 
+    "placeholders": {}
+  }
+}
